@@ -119,12 +119,14 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:013050_0000_0F8FF66095312008"/>
-            <pb facs="tcp:013050_0001_0F8FF66155EE3648" rendition="simple:additions"/>
+            <pb facs="unknown:013050_0000_0F8FF66095312008"/>
+            <pb facs="unknown:013050_0001_0F8FF66155EE3648"
+                rendition="simple:additions"/>
             <p>The Progreſs of DULNESS. PART FIRST.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:013050_0002_0F8FF663A6936590" rendition="simple:additions"/>
+            <pb facs="unknown:013050_0002_0F8FF663A6936590"
+                rendition="simple:additions"/>
             <p>The Progreſs of DULNESS, PART FIRST: OR THE RARE ADVENTURES OF TOM BRAINLESS; SHEWING WHAT HIS FATHER AND MOTHER SAID OF HIM; HOW HE WENT TO COLLEGE, AND WHAT HE LEARNED THERE; HOW HE TOOK HIS DEGREE, AND WENT TO KEEPING SCHOOL; HOW AFTERWARDS HE BECAME A GREAT MAN AND WORE A WIG; AND HOW ANY BODY ELSE MAY DO THE SAME.</p>
             <p>The like never before publiſhed. Very proper to be kept in all Families.</p>
             <p>Daries, daries, aſtataries, diſſunapiter: huat, ba<gap reason="illegible: indecipherable" extent="1 letter">
@@ -137,16 +139,16 @@
             <p>Re-printed in the Year M,DCC,LXXIII.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:013050_0003_0F8FF664941C77D0"/>
+            <pb facs="unknown:013050_0003_0F8FF664941C77D0"/>
             <p>"PRAY what does the author mean?" is the firſt queſtion moſt readers will aſk, and the laſt they are able to anſwer. Therefore in a word I will explain the ſubject and deſign of the following poem.</p>
             <p>The ſubject is the ſtate of the times in regard to literature and religion. The author was prompt<g ref="char:EOLhyphen"/>ed to write by a hope that it might be of uſe to point out, in a clear, conciſe, and ſtriking manner, thoſe general errors, that hinder the advantages of education, and the growth of piety. The ſubject is inexhauſtible; nor is my deſign yet completed. This firſt part deſcribes the principal miſtakes in one courſe of life, and exemplifies the following well-known truth, That to the frequent ſcandal, as well of religion, as learning, a fellow, without any ſhare of genius, or application to ſtudy, may paſs with credit through life, receive the honors of a liberal education, and be admitted to the right hand of fellowſhip among miniſters of the goſpel. That, except in one neighbouring province, ignorance wanders unmoleſted at our colleges, examinations are dwindled to mere form and ceremony, and after four years dozing there, no one is ever refuſed the honors of a degree, on account of dulneſs and in<g ref="char:EOLhyphen"/>ſufficiency. That the <hi>meer</hi> knowledge of antient
-<pb n="vi" facs="tcp:013050_0004_0F8FF665397EA0C0"/>
+<pb n="vi" facs="unknown:013050_0004_0F8FF665397EA0C0"/>
 languages, of the abſtruſer parts of mathematics, and the dark reſearches of metaphyſics, is of little advantage in any buſineſs or profeſſion in life. That it would be more beneficial, in every place of public education, to take pains in teaching the elements of oratory, the grammar of the Engliſh tongue, and the elegancies of ſtyle, and compoſi<g ref="char:EOLhyphen"/>tion. That in numberleſs inſtances throughout theſe colonies, ſufficient care hath not been taken to exclude the ignorant and irreligious, from the ſacred deſk. That this tenderneſs to the unde<g ref="char:EOLhyphen"/>ſerving, tends to debaſe the dignity of the clergy, and to hinder many worthy men from undertaking the office of the miniſtry. And that the virulent controverſies of the preſent day concerning reli<g ref="char:EOLhyphen"/>gious, or in many caſes, meerly ſpeculative opi<g ref="char:EOLhyphen"/>nions, ſavouring ſo highly of vanity and oſtenta<g ref="char:EOLhyphen"/>tion, and breathing a ſpirit ſo oppoſite to chriſ<g ref="char:EOLhyphen"/>tian benevolence, have done more hurt to the cauſe of religion, than all the malice, the ridicule, and the folly of its enemies.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:013050_0005_0F8FF665DD4A94B8"/>
+            <pb facs="unknown:013050_0005_0F8FF665DD4A94B8"/>
             <head>THE PROGRESS OF DULNESS.</head>
             <l>"OUR <hi>Tom</hi> is grown a ſturdy boy;</l>
             <l>His progreſs fills my heart with joy;</l>
@@ -177,7 +179,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Or mid the toils of harveſt ſweat</l>
             <l>Beneath the ſummer's ſultry heat.</l>
             <l>
-               <pb n="8" facs="tcp:013050_0006_0F8FF66690931290"/>Serene, he bids the farm, good-bye,</l>
+               <pb n="8" facs="unknown:013050_0006_0F8FF66690931290"/>Serene, he bids the farm, good-bye,</l>
             <l>And quits the plow without a ſigh.</l>
             <l>Propitious to their conſtant friend,</l>
             <l>The pow'rs of idleneſs attend.</l>
@@ -213,7 +215,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>He lets him mind his own concerns,</l>
             <l>Then tells his parents how he learns.</l>
             <l>
-               <pb n="9" facs="tcp:013050_0007_0F8FF66856912920"/>A year thus ſpent in gathering knowledge,</l>
+               <pb n="9" facs="unknown:013050_0007_0F8FF66856912920"/>A year thus ſpent in gathering knowledge,</l>
             <l>The lad ſets forth t' unlade at college,</l>
             <l>While down his ſire and prieſt attend him,</l>
             <l>To introduce and recommend him:</l>
@@ -249,7 +251,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
                <hi>non paravi,</hi>
             </l>
             <l>
-               <pb n="10" facs="tcp:013050_0008_0F8FF668D0477718"/>Much abſence, <hi>tardes</hi> and <hi>egreſſes,</hi>
+               <pb n="10" facs="unknown:013050_0008_0F8FF668D0477718"/>Much abſence, <hi>tardes</hi> and <hi>egreſſes,</hi>
             </l>
             <l>The college-evil on him ſeizes.</l>
             <l>Then ev'ry book, which ought to pleaſe,</l>
@@ -285,7 +287,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Deſpiſing ſuch low things the while</l>
             <l>As Engliſh grammar, phraſe and ſtyle;</l>
             <l>
-               <pb n="11" facs="tcp:013050_0009_0F8FF66B27647518"/>Deſpiſing ev'ry nicer art,</l>
+               <pb n="11" facs="unknown:013050_0009_0F8FF66B27647518"/>Deſpiſing ev'ry nicer art,</l>
             <l>That aids the tongue, or mends the heart:</l>
             <l>Read antient authors o'er in vain,</l>
             <l>Nor taſte one beauty they contain;</l>
@@ -320,7 +322,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Is it by mathematic's aid</l>
             <l>To count the worlds in light array'd,</l>
             <l>
-               <pb n="12" facs="tcp:013050_0010_0F8FF66C2125A050"/>To know each ſtar, that lifts it's eye,</l>
+               <pb n="12" facs="unknown:013050_0010_0F8FF66C2125A050"/>To know each ſtar, that lifts it's eye,</l>
             <l>To ſparkle in the midnight ſky?</l>
             <l>Say ye, who draw the curious line</l>
             <l>Between the uſeful and the fine,</l>
@@ -356,7 +358,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Content below, and bliſs above.</l>
             <l>
                <pb n="13"
-                   facs="tcp:013050_0011_0F8FF66C98AB9CE0"
+                   facs="unknown:013050_0011_0F8FF66C98AB9CE0"
                    rendition="simple:additions"/>Thy boaſtful wiſh how proud and vain,</l>
             <l>While heav'n forbids the vaunting ſtrain!</l>
             <l>For metaphyſics rightly ſhown</l>
@@ -392,7 +394,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Return'd, our hero ſtill we find</l>
             <l>The ſame, as blundering and as blind.</l>
             <l>
-               <pb n="14" facs="tcp:013050_0012_0F8FF66D54545498"/>Four years at college doz'd away</l>
+               <pb n="14" facs="unknown:013050_0012_0F8FF66D54545498"/>Four years at college doz'd away</l>
             <l>In ſleep, and ſlothfulneſs and play,</l>
             <l>Too dull for vice, with cleareſt conſcience,</l>
             <l>Charg'd with no fault, but that of nonſenſe,</l>
@@ -429,7 +431,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>With paſſport ſign'd for wit and knowledge,</l>
             <l>And current under ſeal of college.</l>
             <l>
-               <pb n="15" facs="tcp:013050_0013_0F8FF66E15DB5640"/>Few months now paſt, he ſees with pain</l>
+               <pb n="15" facs="unknown:013050_0013_0F8FF66E15DB5640"/>Few months now paſt, he ſees with pain</l>
             <l>His purſe as empty as his brain;</l>
             <l>His father leaves him then to fate,</l>
             <l>And throws him off, as uſeleſs weight;</l>
@@ -464,7 +466,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Whoſe great electric virtue's ſuch,</l>
             <l>Each genius brightens at the touch;</l>
             <l>
-               <pb n="16" facs="tcp:013050_0014_0F8FF66ED1FB7C30"/>With threats and blows (incitements preſſing)</l>
+               <pb n="16" facs="unknown:013050_0014_0F8FF66ED1FB7C30"/>With threats and blows (incitements preſſing)</l>
             <l>Drives on his lads to learn each leſſon;</l>
             <l>Thinks flogging cures all moral ills,</l>
             <l>And breaks their heads to break their wills.</l>
@@ -499,7 +501,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Explode all known, eſtabliſh'd rules,</l>
             <l>Affirm our fathers all were fools:</l>
             <l>
-               <pb n="17" facs="tcp:013050_0015_0F8FF66F935E5408"/>The preſent age is growing wiſe,</l>
+               <pb n="17" facs="unknown:013050_0015_0F8FF66F935E5408"/>The preſent age is growing wiſe,</l>
             <l>But Wiſdom in her cradle lies;</l>
             <l>Late, like <hi>Minerva,</hi> born and bred,</l>
             <l>Not from a <hi>Jove</hi>'s, but Scribler's head,</l>
@@ -534,7 +536,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Though blunt the ſtyle, the truths ſet down</l>
             <l>Ye can't deny—though <hi>ſome</hi> may frown.</l>
             <l>
-               <pb n="18" facs="tcp:013050_0016_0F8FF670516B9070"/>Yes, there are men, nor thoſe a few,</l>
+               <pb n="18" facs="unknown:013050_0016_0F8FF670516B9070"/>Yes, there are men, nor thoſe a few,</l>
             <l>The foes of virtue, and of you;</l>
             <l>Who, nurtur'd long in dulneſs' ſchool,</l>
             <l>Make vice their trade, and ſin by rule,</l>
@@ -569,7 +571,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>But when each point of ſerious weight,</l>
             <l>Is torne with wrangling and debate,</l>
             <l>
-               <pb n="19" facs="tcp:013050_0017_0F8FF6728F082118"/>When truth, mid rage of dire diviſions,</l>
+               <pb n="19" facs="unknown:013050_0017_0F8FF6728F082118"/>When truth, mid rage of dire diviſions,</l>
             <l>Is left, to fight for definitions,</l>
             <l>And fools aſſume your ſacred place,</l>
             <l>It threats your order with diſgrace;</l>
@@ -606,7 +608,7 @@ languages, of the abſtruſer parts of mathematics, and the dark reſearches of 
             <l>Two hours his drawling ſpeech holds on,</l>
             <l>And names it preaching when he's done.</l>
             <l>
-               <pb n="20" facs="tcp:013050_0018_0F8FF6729E44A840"/>With roving tir'd, he fixes down</l>
+               <pb n="20" facs="unknown:013050_0018_0F8FF6729E44A840"/>With roving tir'd, he fixes down</l>
             <l>For life, in ſome unſettled town.</l>
             <l>People and prieſt full well agree;</l>
             <l>For why—they know no more than he.</l>
